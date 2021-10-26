@@ -1,0 +1,16 @@
+### 👋 Hi, I’m **@virtual-designer**!
+👀 I’m interested in web development, software development and graphic designing. 
+
+🌱 I’m currently learning laravel and symfony. 
+
+📫 How to reach me: 
+
+In many places, you'll find me as **rakinar2**. 
+
+ - Email address: rakinar2@gmail.com
+ - Website: [virtual-designer.github.io](https://virtual-designer.github.io/)
+
+<!---
+virtual-designer/virtual-designer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
