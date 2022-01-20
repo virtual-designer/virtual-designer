@@ -1,5 +1,6 @@
 ### 👋 Hi, I’m **@virtual-designer**!
 👀 I’m interested in web development, software development and graphic designing. 
+   I have been working with PHP for several years and I feel myself pretty-comfortable with PHP.
 
 🌱 I’m currently learning laravel and symfony. 
 
