@@ -10,6 +10,7 @@ In many places, you'll find me as **rakinar2**.
 
  - Email address: rakinar2@gmail.com
  - Website: [virtual-designer.github.io](https://virtual-designer.github.io/)
+ - Discord: rakinar2#7578
 
 <!---
 virtual-designer/virtual-designer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
