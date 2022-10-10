@@ -8,7 +8,7 @@
 
 In many places, you'll find me as **rakinar2**. 
 
- - Email address: rakinar2@gmail.com
+ - Email address: rakinar2@onesoftnet.eu.org
  - Website: [virtual-designer.github.io](https://virtual-designer.github.io/)
  - Discord: rakinar2#7578
 
