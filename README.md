@@ -1,4 +1,4 @@
-### 👋 Hi, I’m **@virtual-designer**!
+### 👋 Hi, I’m **Ar Rakin**!
 👀 I’m interested in web development, software development and graphic designing. 
    I have been working with PHP for several years and I feel myself pretty-comfortable with PHP. Also in these days I'm building Discord Bots. 
 
