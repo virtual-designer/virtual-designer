@@ -13,10 +13,6 @@ In many places, you'll find me as **rakinar2**.
  - Discord: rakinar2#7578
  - Join these Discord Servers to talk with me: [The Spotify Hangout](https://discord.gg/spotify), [OneSoftNet](https://discord.gg/pazm3tqYh5)
 
-<br>
-
-![Github stats](https://github-readme-stats.vercel.app/api?username=virtual-designer)
-
 
 <!---
 virtual-designer/virtual-designer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
