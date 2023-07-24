@@ -13,6 +13,12 @@ In many places, you'll find me as **rakinar2**.
  - Discord: rakinar2#7578
  - Join these Discord Servers to talk with me: [Siily Cats](https://discord.gg/catss), [The Spotify Hangout](https://discord.gg/spotify), [OneSoftNet](https://discord.gg/pazm3tqYh5)
 
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=virtual-designer&theme=solarized_dark" width="100%" />
+
+<div width="100%">
+   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=virtual-designer&theme=solarized_dark" width="100%" height="auto" />
+   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=virtual-designer&theme=solarized_dark" width="100%" height="auto" />
+</div>
 
 <!---
 virtual-designer/virtual-designer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
