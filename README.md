@@ -15,10 +15,9 @@ In many places, you'll find me as **rakinar2**.
 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=virtual-designer&theme=solarized_dark" width="100%" />
 
-<div width="100%">
-   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=virtual-designer&theme=solarized_dark" width="100%" height="auto" />
-   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=virtual-designer&theme=solarized_dark" width="100%" height="auto" />
-</div>
+<p align="center">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=virtual-designer&theme=solarized_dark" width="60%" height="auto" />
+</p>
 
 <!---
 virtual-designer/virtual-designer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
