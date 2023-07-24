@@ -2,8 +2,6 @@
 👀 I’m interested in web development, software development and graphic designing. 
    I have been working with PHP for several years and I feel myself pretty-comfortable with PHP & JavaScript. Also in these days I'm building Discord Bots. 
 
-🌱 I’m currently learning NextJS + Redux.
-
 📫 How to reach me: 
 
 In many places, you'll find me as **rakinar2**. 
