@@ -9,7 +9,7 @@ In many places, you'll find me as **rakinar2**.
  - Email address: rakinar2@onesoftnet.eu.org
  - Website: [virtual-designer.github.io](https://virtual-designer.github.io/)
  - Discord: rakinar2#7578
- - Join these Discord Servers to talk with me: [Siily Cats](https://discord.gg/catss), [The Spotify Hangout](https://discord.gg/spotify), [OneSoftNet](https://discord.gg/pazm3tqYh5)
+ - Join these Discord Servers to talk with me: [Siily Cats](https://discord.gg/sillycats), [The Spotify Hangout](https://discord.gg/spotify), [OneSoftNet](https://discord.gg/pazm3tqYh5)
 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=virtual-designer&theme=solarized_dark" width="100%" />
 
