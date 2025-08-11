@@ -1,8 +1,6 @@
 ### 👋 Hi, I’m **Ar Rakin**!
-👀 I’m interested in web development, software development and graphic designing. 
-   I have been working with PHP, C, TypeScript and JavaScript for several years and I feel myself pretty-comfortable with those. Also these days I'm building Discord Bots. 
 
-📫 How to reach me: 
+I love to code and explore. I’m into low level stuff like compilers, interpreters, virtual machines, kernels.
 
 In most places, you'll find me as **rakinar2**. 
 
