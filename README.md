@@ -8,7 +8,7 @@ In most places, you'll find me as **rakinar2**.
  - Website: [virtual-designer.github.io](https://virtual-designer.github.io/)
  - Discord: [rakinar2](https://discord.com/user/774553653394538506)
  - Join these Discord Servers to talk with me: [The Spotify Hangout](https://discord.gg/spotify), [OneSoftNet](https://discord.gg/pazm3tqYh5)
-
+ 
 <br />
 
 <table border="0">
