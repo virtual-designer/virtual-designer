@@ -1,6 +1,6 @@
 ### 👋 Hi, I’m **Ar Rakin**!
 
-I love to code and explore. I’m into low level stuff like compilers, interpreters, virtual machines, kernels.
+I love to code and explore. I’m into low level stuff like compilers, interpreters, virtual machines, kernels. I also maintain the [SudoBot](https://github.com/onesoft-sudo/sudobot) project.
 
 In most places, you'll find me as **rakinar2**. 
 
